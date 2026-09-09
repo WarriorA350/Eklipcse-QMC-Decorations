@@ -32,7 +32,14 @@ const RECORD = {
     group: "Group 1",
     name: "Combat Infantryman Badge",
     suffix: "1st Award",
-    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Combat_Infantry_Badge.svg/1920px-Combat_Infantry_Badge.svg."
+    image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Combat_Infantry_Badge.svg/1920px-Combat_Infantry_Badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    category: "badges",
+    group: "Group 2",
+    name: "Expert Infantryman Badge",
+    suffix: "1st Award",
+    image: ""
   },
 {
     category: "badges",
