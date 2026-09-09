@@ -36,13 +36,6 @@ const RECORD = {
   },
 {
     category: "badges",
-    group: "Group 2",
-    name: "EIB",
-    suffix: "Basic",
-    image: "https://i.etsystatic.com/10828952/r/il/094da4/1507539549/il_570xN.1507539549_cysd.jpg"
-  },
-{
-    category: "badges",
     group: "Group 3",
     name: "Explosive Ordnance Disposal Badge",
     suffix: "Basic",
