@@ -37,9 +37,9 @@ const RECORD = {
 {
     category: "badges",
     group: "Group 2",
-    name: "Expert Infantryman Badge",
-    suffix: "1st Award",
-    image: ""
+    name: "EIB",
+    suffix: "Basic",
+    image: "https://i.etsystatic.com/10828952/r/il/094da4/1507539549/il_570xN.1507539549_cysd.jpg"
   },
 {
     category: "badges",
@@ -173,6 +173,13 @@ const RECORD = {
     name: "Armed Forces Service Medal",
     suffix: "3rd Award",
     image: "https://i.imgur.com/zTdZqzx.png"
+  },
+{
+    category: "badges",
+    group: "Ribbons",
+    name: "NATO Non-Article 5",
+    suffix: "",
+    image: "https://i.imgur.com/rCBIYVZ.png"
   },
 {
     category: "badges",
